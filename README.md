@@ -1,16 +1,55 @@
-## Hi there 👋
+# ¡Hola, soy Nacho! 👋
 
-<!--
-**navanacho/navanacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador **Fullstack** enfocado en el desarrollo web, **análisis de datos automatización y arquitectura de software**. Me apasiona construir herramientas eficientes, procesar información para la toma de decisiones y diseñar soluciones seguras e integrales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tecnologías y Herramientas
+
+#### Desarrollo Fullstack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Análisis de Datos & Visualización
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Infraestructura & Entorno
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+###  Análisis de Datos & Telemetría
+
+Me especializo en transformar fuentes de datos brutas en tableros ejecutivos y métricas clave para la toma de decisiones:
+* **Visualización de Datos:** Creación de dashboards interactivos en **Grafana** utilizando fuentes relacionales (PostgreSQL) e integración de sets de datos estructurados (CSV/APIs).
+* **Procesamiento y Métrica:** Limpieza, filtrado y consolidación de métricas de eventos, tráfico y rendimiento en tiempo real.
+
+---
+
+###  Proyectos Destacados
+
+* **[Automatización con Honeypots & Telemetría](https://github.com/navanacho/Automatizacion_con_Honeypots_Tesis)**  
+  Sistema integral de captura de amenazas y procesamiento analítico de datos en tiempo real.
+  * **Tech Stack:** Cowrie, Dionaea, Docker, PostgreSQL, n8n, Grafana.
+  * **Análisis & Automatización:** Visualización de telemetría de eventos con paneles analíticos en Grafana y flujos automatizados de enriquecimiento de IP via webhooks.
+
+---
+
+###  Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navanacho&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navanacho&layout=compact&theme=radial" alt="Lenguajes más usados" height="170"/>
+</p>
+
+---
+
+###  Conectemos
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navarria332@gmail.com)
