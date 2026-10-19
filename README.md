@@ -29,11 +29,11 @@ Desarrollador **Fullstack** enfocado en el desarrollo web, **análisis de datos 
 
 ---
 
-###  Análisis de Datos & Telemetría
+###  Análisis de Datos, BI & Telemetría
 
 Me especializo en transformar fuentes de datos brutas en tableros ejecutivos y métricas clave para la toma de decisiones:
-* **Visualización de Datos:** Creación de dashboards interactivos en **Grafana** utilizando fuentes relacionales (PostgreSQL) e integración de sets de datos estructurados (CSV/APIs).
-* **Procesamiento y Métrica:** Limpieza, filtrado y consolidación de métricas de eventos, tráfico y rendimiento en tiempo real.
+* **Business Intelligence & Visualización:** Creación de dashboards interactivos en **Power BI**, **Looker Studio** y **Grafana** integrando fuentes relacionales (**PostgreSQL**), NoSQL (**MongoDB**) y archivos estructurados.
+* **Procesamiento y Automatización:** Flujos automáticos de ingestión de datos e integración con **n8n**, filtrado y consolidación de métricas de eventos en tiempo real.
 
 ---
 
